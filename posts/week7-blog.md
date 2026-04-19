@@ -1,0 +1,17 @@
+---
+title: "Post 2"
+date: "2026-04-19"
+description: "A Week 7 reflection."
+---
+This week, our group selected the topic for our assignment and used discussion to turn the broad idea of “a platform for vintage culture” into a clearer assessment of web application requirements. We realised that the key challenge is not how to place exhibition, community interaction, exchange, and trade on the same platform, but how to decide the core task of the application within the course timeline, technical stack, and prototype scope. If all directions are treated equally, the result may become a hybrid platform with many ideas but no clear value. For this reason, our most important decision this week was to make an exhibition-led experience the main task of the platform, while treating trading and exchange as secondary pathways that extend from the display experience.
+
+This decision reshaped our understanding of VintaArchive. A web application should not simply contain a large amount of content; it should help users complete a meaningful task. In our case, that task is not primarily to complete transactions, but to help users enter vintage culture through themed exhibitions, browse curated items, and understand the history, style, and emotional narratives behind them. Only after this should they decide whether to interact further, save an item, exchange, or purchase. In other words, the distinctive value of the platform lies less in enabling faster transactions and more in allowing vintage objects to be interpreted and experienced in a curated, story-driven way.
+
+Based on this, we began to distinguish between core functional requirements and supporting features. At this stage, the core requirements should focus on the exhibition experience. The system needs to support themed exhibitions, curated item browsing, item-level storytelling, and access to past themes so that exhibitions continue to have value over time. It should also allow lightweight user contribution, such as story submission or responses around exhibitions, so that community interaction grows naturally from the display content. In contrast, features such as real-time trading, price confirmation, swap negotiation, and purchase history may still exist, but they should be treated as secondary rather than defining the platform itself.
+
+This prioritisation matters because it prevents the project from becoming just another second-hand marketplace. The value of vintage objects often comes not only from price or function, but from age, style, memory, and cultural context. If exhibition, community, and trade are treated side by side, users may see the platform as only a resale website with stronger visual styling. By putting exhibition first, trading becomes a later pathway that emerges after users browse themes, read stories, and form emotional or aesthetic interest in an item.
+
+This decision also affects our technical thinking. If exhibition is the core, the platform must prioritise structured thematic content rather than standard item listings. This means later data and page design should focus on themes, stories, item descriptions, curated groupings, and the relationship between exhibitions and user contributions. Overall, this week was not only about choosing a topic, but about clarifying VintaArchive’s core value through feature prioritisation.
+
+![Initial sitemap for VintaArchive](/assets/deco2017-week7blog2-sitemap.png)
+*Figure 1. Initial sitemap for VintaArchive, showing the current relationship between exhibition, marketplace, and profile functions.*
